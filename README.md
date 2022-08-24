@@ -1,10 +1,9 @@
 ### Hi! I'm Jonas Souza. I'm front-end developer. 👨‍💻
 
-<div>
-  <a href="https://github.com/jonasmzsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasmzsouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmzsouza&layout=compact&langs_count=10&theme=github_dark"/>
-</div>
+[![jonasmzsouza's wakatime stats](https://github-readme-stats.vercel.app/api?username=jonasmzsouza&show_icons=true&theme=react&count_private=true)](https://github.com/jonasmzsouza)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmzsouza&layout=compact&langs_count=10&theme=react)](https://github.com/jonasmzsouza)
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
