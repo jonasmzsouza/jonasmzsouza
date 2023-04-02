@@ -8,6 +8,23 @@
     <img src="https://img.shields.io/badge/linkedin-2662a9.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+<p>
+   <a href="https://expo.dev/@jonasmzsouza" target="_blank">
+    <img src="https://img.shields.io/badge/expo-151718.svg?&style=for-the-badge&logo=expo&logoColor=white">
+  </a>
+  <a href="https://stackblitz.com/@jonasmzsouza" target="_blank">
+    <img src="https://img.shields.io/badge/stackblitz-1282f0.svg?&style=for-the-badge&logo=stackblitz&logoColor=white">
+  </a>  
+  <a href="https://replit.com/@jonasmzsouza" target="_blank">
+    <img src="https://img.shields.io/badge/replit-f26207.svg?&style=for-the-badge&logo=replit&logoColor=white">
+  </a>
+  <a href="https://codepen.io/jonasmzsouza" target="_blank">
+    <img src="https://img.shields.io/badge/codepen-060606.svg?&style=for-the-badge&logo=codepen&logoColor=white">
+  </a>
+  <a href="https://jsfiddle.net/user/jonasmzsouza/fiddles" target="_blank">
+    <img src="https://img.shields.io/badge/jsfiddle-2e71ff.svg?&style=for-the-badge&logo=jsfiddle&logoColor=white">
+  </a>
+</p>
 
 ### I'm Fullstack Developer. A technology enthusiast who believes in its power to transform lives. 👨‍💻
 
@@ -66,5 +83,22 @@ See <a href="https://jonasmzsouza.github.io/" target="_blank">my portfolio</a> f
   </a>
   <a href="https://www.linkedin.com/in/jonasmzsouza/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-2662a9.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+<p>
+   <a href="https://expo.dev/@jonasmzsouza" target="_blank">
+    <img src="https://img.shields.io/badge/expo-151718.svg?&style=for-the-badge&logo=expo&logoColor=white">
+  </a>
+  <a href="https://stackblitz.com/@jonasmzsouza" target="_blank">
+    <img src="https://img.shields.io/badge/stackblitz-1282f0.svg?&style=for-the-badge&logo=stackblitz&logoColor=white">
+  </a>  
+  <a href="https://replit.com/@jonasmzsouza" target="_blank">
+    <img src="https://img.shields.io/badge/replit-f26207.svg?&style=for-the-badge&logo=replit&logoColor=white">
+  </a>
+  <a href="https://codepen.io/jonasmzsouza" target="_blank">
+    <img src="https://img.shields.io/badge/codepen-060606.svg?&style=for-the-badge&logo=codepen&logoColor=white">
+  </a>
+  <a href="https://jsfiddle.net/user/jonasmzsouza/fiddles" target="_blank">
+    <img src="https://img.shields.io/badge/jsfiddle-2e71ff.svg?&style=for-the-badge&logo=jsfiddle&logoColor=white">
   </a>
 </p>
