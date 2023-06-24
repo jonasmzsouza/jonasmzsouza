@@ -41,7 +41,7 @@ See <a href="https://jonasmzsouza.github.io/" target="_blank">my portfolio</a> f
 
 <div align="left">
   <a href="https://github.com/jonasmzsouza">
-    <img height="180em" src="https://github-readme-stats-jonasmzsouza.vercel.app/api?username=jonasmzsouza&show_icons=true&rank_icon=github&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-jonasmzsouza.vercel.app/api/?username=jonasmzsouza&show_icons=true&rank_icon=github&theme=react&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-jonasmzsouza.vercel.app/api/top-langs?username=jonasmzsouza&layout=compact&langs_count=8&theme=react"/>
   </a>
 </div>
