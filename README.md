@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/jonasmzsouza/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-2662a9?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+    <a href="https://gitlab.com/jonasmzsouza" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-da4127?&style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
   <br>
   <a href="https://expo.dev/@jonasmzsouza" target="_blank">
     <img src="https://img.shields.io/badge/expo-151718?&style=for-the-badge&logo=expo&logoColor=white">
