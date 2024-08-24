@@ -34,7 +34,9 @@
 
 Hey there 👋
 - I'm Fullstack Developer; 👨‍💻
-- Graduated in Technology in Systems Analysis and Development; 🎓
+- Associates degree in Technologist in Systems Analysis and Development; 🎓
+- Bachelor’s degree in Information Systems; 🎓
+- Graduate school in Software Architecture; 🎓
 - A technology enthusiast who believes in its power to transform lives. 
 
 See <a href="https://jonasmzsouza.github.io/" target="_blank">my portfolio</a> for more information!
